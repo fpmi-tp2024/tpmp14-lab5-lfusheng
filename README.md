@@ -4,3 +4,4 @@
 - Function 3: Learn the mobile programming technology
 - Installation: Download the project in ZIP form
 - Usage: Record my learn process 
+- Contribution: He Runhai & Professor Mary
