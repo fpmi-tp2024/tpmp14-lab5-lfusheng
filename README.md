@@ -9,4 +9,4 @@
 ## My history hometask
 1. [Lab3 Solution](https://github.com/lfusheng/Lab3-Task1.git)
 <br>
-3. ![](https://github.com/fpmi-tp2024/tpmp14-lab5-lfusheng/blob/main/Lab3-Solution.png)
+2. ![](https://github.com/fpmi-tp2024/tpmp14-lab5-lfusheng/blob/main/Lab3-Solution.png)
