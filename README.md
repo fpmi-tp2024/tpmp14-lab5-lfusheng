@@ -5,3 +5,7 @@
 - Installation: Download the project in ZIP form
 - Usage: Record my learn process 
 - Contribution: Li Fusheng & Professor Maryia
+
+## My history hometask
+1. [Lab3 Solution](https://github.com/lfusheng/Lab3-Task1.git)
+![]()
